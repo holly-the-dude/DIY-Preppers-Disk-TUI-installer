@@ -26,8 +26,6 @@ IIAB itself deserves special acknowledgment for its longstanding work making loc
 
 For another open and **well-documented** approach, see **[Library-Creator](https://github.com/holly-the-dude/Library-Creator)**. Its public repository contains a project README, separate **installation**, **usage**, and **development** guides, a bootstrap reference, and individual documentation for services such as maps, Wikipedia, music, and Meshtastic. Its architecture and features differ from this IIAB-based installer; they are **separate projects**, and Library-Creator is not installed by this script.
 
-The URL [github.com/library-creator](https://github.com/library-creator) was also suggested as a reference, but **that GitHub profile currently does not show public repositories**. The working, documented repository verified for this README is **[github.com/holly-the-dude/Library-Creator](https://github.com/holly-the-dude/Library-Creator)**.
-
 ### Another community example: a personal research library
 
 A contributor in the shared Facebook discussion describes using IIAB's existing web server to expose a separate, personally curated research collection from a USB drive. Their published [DFranke84/Research](https://github.com/DFranke84/Research) repository contains a PC-based **Research Library** manager and documentation for a browser-accessible viewer. It is a useful reference for custom content, local search, and serving personal documents through an existing offline server. **This is an independent project and is not installed or bundled by this script.** Review its license and requirements before borrowing code or ideas.
